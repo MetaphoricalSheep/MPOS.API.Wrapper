@@ -1,8 +1,10 @@
 # MPOS API Wrapper in C#
 
+MPOS API Wrapper in C#
+
 The MPOS API documentation can be viewed on (https://github.com/MPOS/php-mpos/wiki/API-Reference)
 
-I used suprnova to build this wrapper. Drop me a message if it doesn't play well with your pool so that I can update the code.
+I used https://suprnova.cc to build this wrapper. Drop me a message if it doesn't play well with your pool so that I can update the code.
 
 
 ## Getting Started
